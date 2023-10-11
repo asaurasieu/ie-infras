@@ -13,6 +13,7 @@ param appServiceAPIDBHostFLASK_DEBUG string
 @allowed([
   'nonprod'
   'prod'
+  'uat'
 ])
 param environmentType string
 
@@ -72,6 +73,9 @@ resource appServiceAPIApp 'Microsoft.Web/sites@2022-03-01' = {
         {
           name: 'SCM_DO_BUILD_DURING_DEPLOYMENT'
           value: 'true'
+        }
+        {
+          name: 'APPINSIGHTS_INSTRUMENTATIONKEY'
         }
       ]
     }

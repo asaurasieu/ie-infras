@@ -6,28 +6,28 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "asaurasieu-dbsrv-dev"
+            "value": "asaurasieu-dbsrv-uat"
         },
         "postgreSQLDatabaseName": {
-            "value": "asaurasieu-db-dev"
+            "value": "asaurasieu-db-uat"
         },
         "appServicePlanName": {
-            "value": "asaurasieu-asp-dev"
+            "value": "asaurasieu-asp-uat"
         },
         "appServiceAPIAppName": {
-            "value": "asaurasieu-be-dev"
+            "value": "asaurasieu-be-uat"
         },
         "appServiceAppName": {
-            "value": "asaurasieu-fe-dev"
+            "value": "asaurasieu-fe-uat"
         },
           "azureMonitorName": {
-          "value": "asaurasieu-am"
+          "value": "asaurasieu-am-uat"
         },
         "appInsightsName": {
-            "value": "asaurasieu-ai"
+            "value": "asaurasieu-ai-uat"
         },
         "location": {
-            "value": "westeurope"
+            "value": "Southeast Asia"
         }
     }
 }
