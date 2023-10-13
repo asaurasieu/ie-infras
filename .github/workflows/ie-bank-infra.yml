@@ -65,7 +65,7 @@ jobs:
       ENV: uat
       DBHOST: asaurasieu-dbsrv-uat.postgres.database.azure.com
       DBNAME: asaurasieu-db-uat
-      Flask_APP: app.py
+      FLASK_APP: app.py
       FLASK_DEBUG: 1
 
     steps:
