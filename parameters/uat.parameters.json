@@ -20,9 +20,6 @@
         "appServiceAppName": {
             "value": "asaurasieu-fe-uat"
         },
-        "azureMonitorName": {
-            "value": "asaurasieu-am-uat"
-        },
         "appInsightsName": {
             "value": "asaurasieu-ai-uat"
         },

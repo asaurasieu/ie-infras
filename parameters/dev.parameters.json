@@ -20,9 +20,6 @@
         "appServiceAppName": {
             "value": "asaurasieu-fe-dev"
         },
-        "azureMonitorName": {
-            "value": "asaurasieu-am-dev"
-        },
         "appInsightsName": {
             "value": "asaurasieu-ai-dev"
         },
