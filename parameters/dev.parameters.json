@@ -21,10 +21,10 @@
             "value": "asaurasieu-fe-dev"
         },
         "azureMonitorName": {
-            "value": "asaurasieu-am"
+            "value": "asaurasieu-am-dev"
         },
         "appInsightsName": {
-            "value": "asaurasieu-ai"
+            "value": "asaurasieu-ai-dev"
         },
         "location": {
             "value": "westeurope"

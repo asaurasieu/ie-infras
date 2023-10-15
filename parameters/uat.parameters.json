@@ -21,10 +21,10 @@
             "value": "asaurasieu-fe-uat"
         },
         "azureMonitorName": {
-            "value": "asaurasieu-am"
+            "value": "asaurasieu-am-uat"
         },
         "appInsightsName": {
-            "value": "asaurasieu-ai"
+            "value": "asaurasieu-ai-uat"
         },
         "location": {
             "value": "Southeast Asia"
