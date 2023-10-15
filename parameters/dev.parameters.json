@@ -20,9 +20,6 @@
         "appServiceAppName": {
             "value": "asaurasieu-fe-dev"
         },
-        "appInsightsName": {
-            "value": "asaurasieu-ai-dev"
-        },
         "location": {
             "value": "westeurope"
         }

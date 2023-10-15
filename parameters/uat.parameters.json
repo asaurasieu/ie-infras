@@ -20,9 +20,6 @@
         "appServiceAppName": {
             "value": "asaurasieu-fe-uat"
         },
-        "appInsightsName": {
-            "value": "asaurasieu-ai-uat"
-        },
         "location": {
             "value": "Southeast Asia"
         }
