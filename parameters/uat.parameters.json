@@ -20,6 +20,12 @@
         "appServiceAppName": {
             "value": "asaurasieu-fe-uat"
         },
+        "azureMonitorName": {
+            "value": "asaurasieu-am"
+        },
+        "appInsightsName": {
+            "value": "asaurasieu-ai"
+        },
         "location": {
             "value": "Southeast Asia"
         }
